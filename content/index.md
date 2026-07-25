@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Tim's Lost Mine of Phandelver Handouts!
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This page is currently blank :)
